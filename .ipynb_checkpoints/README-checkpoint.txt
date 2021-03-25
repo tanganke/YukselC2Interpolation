@@ -1,1 +1,0 @@
-python implementation of SIGGRAPH 2020 paper 'A class of C2 interpolating Splines - cem yuksel'
